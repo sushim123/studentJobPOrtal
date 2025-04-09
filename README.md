@@ -19,7 +19,7 @@ student-job-tracker/ ├── public/ ├── src/ │ ├── assets/ │ 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/studentJobPOrtal.git
+git clone https://github.com/sushim123/studentJobPOrtal.git
 cd studentJobPOrtal
 npm install
 ```
